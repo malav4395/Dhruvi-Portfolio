@@ -1,0 +1,30 @@
+/*
+//////////////////////////////////////////////////////////////////////////
+/
+/   Real Estate by Malav -  Style.css
+/   developed by Malav Panchal
+/   realtor.malav@gmail.com
+/
+/  This CSS file is being used by all the pages-
+/  Home, About, Services, Contact
+/
+//////////////////////////////////////////////////////////////////////////
+*/
+/* ------------------Home page Elements------------------------- */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  color: #40514e;
+  padding-top: 80px;
+}
+
+.middle-container{
+  padding: 5px;;
+}
+.col-lg-3.col-md-4.col-sm-6{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
